@@ -1,11 +1,11 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: แม็กคุง
+title: หากเรานำความฝัน + การลงมือทำ = จะกลายเป็นความคิดที่มีตัวตน
 email: singmax161@gmail.com
 brand: แม็กคุง
 headline: หากเรานำความฝัน + การลงมือทำ = จะกลายเป็นความคิดที่มีตัวตน
 description: > # this means to ignore newlines until "baseurl:"
-  New Site
+  อืมนะ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 copyright: 2016 Whatever Company, Inc. All Rights Reserved.
@@ -14,11 +14,12 @@ copyright: 2016 Whatever Company, Inc. All Rights Reserved.
 markdown: kramdown
 
 # Account ids
-snapwidget: 481935
+snapwidget: 481943
 
 # Contacts
 email: singmax161@gmail.com
 phone: +66-84-323-0445
+Line: t.m_thongkum
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
