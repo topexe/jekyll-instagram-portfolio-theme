@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   อืมนะ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+copyright: ถึงผมจะไม่เคยมีแฟน แต่ผมมีหัวใจนะครับ
 
 # Build settings
 markdown: kramdown
@@ -19,7 +19,7 @@ snapwidget: 481943
 # Contacts
 email: singmax161@gmail.com
 phone: +66-84-323-0445
-Line: t.m_thongkum
+line: t.m_thongkum
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
