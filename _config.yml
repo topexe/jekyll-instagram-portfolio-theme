@@ -1,9 +1,9 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
-email: your-email@domain.com
-brand: Your Name
-headline: Inventor, Engineer and Futurist
+title: แม็กคุง
+email: singmax161@gmail.com
+brand: แม็กคุง
+headline: หากเรานำความฝัน + การลงมือทำ = จะกลายเป็นความคิดที่มีตัวตน
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -14,11 +14,11 @@ copyright: 2016 Whatever Company, Inc. All Rights Reserved.
 markdown: kramdown
 
 # Account ids
-snapwidget: 247552
+snapwidget: 481935
 
 # Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
+email: singmax161@gmail.com
+phone: +66-84-323-0445
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
