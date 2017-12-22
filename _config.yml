@@ -7,15 +7,15 @@ headline: หากเรานำความฝัน + การลงมื�
 description: > # this means to ignore newlines until "baseurl:"
   อืมนะ...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://topexe.xyz" # the base hostname & protocol for your site
 copyright: ถึงผมจะไม่มีแฟน แต่ผมมีหัวใจนะครับ
 
 # Build settings
 markdown: kramdown
 
 # Account ids
-snapwidget: 481943
-snapwidget_top: 482098
+snapwidget_top: 481943
+snapwidget: 484045
 
 # Contacts
 email: singmax161@gmail.com
