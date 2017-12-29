@@ -1,4 +1,4 @@
-<div id="player">
+<div id="player" align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5nn8X6dLuiY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
@@ -19,7 +19,7 @@
           height: '{{ site.youtube_height }}',
           width: '{{ site.youtube_width }}',
           videoId: '{{ site.youtube }}',
-          playerVars: { 'autoplay': 1, 'controls': 0 },
+          playerVars: { 'autoplay': '{{ site.youtube_autoplay }}', 'controls': 0 },
           events: {
             'onReady': onPlayerReady,
             'onStateChange': onPlayerStateChange
@@ -37,7 +37,7 @@
       //    the player should play for six seconds and then stop.
       var done = false;
       function onPlayerStateChange(event) {
-        
+
       }
       function stopVideo() {
         player.stopVideo();
